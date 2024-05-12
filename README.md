@@ -1,4 +1,4 @@
-## Olá! Sou Artur Araujo, analista de BI!
+## Olá! Sou Artur Araujo, engenheiro de dados!
 - 🔭 Bem vindo ao meu perfil!
 
 <div style="display: inline_block"><br>
